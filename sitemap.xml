@@ -3,28 +3,33 @@
    xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://anudeepburugu.github.io/#/</loc>
+        <loc><![CDATA[ https://anudeepburugu.github.io/#/]]></loc>
         <lastmod>2023-07-02T13:23:00+0530</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.92</priority>
     </url>
      <url>
-        <loc>https://anudeepburugu.github.io/#/Science+Blogs/Bone+Growth</loc>
+        <loc><![CDATA[ https://anudeepburugu.github.io/#/Science+Blogs/Bone+Growth]]></loc>
         <lastmod>2023-06-02T11:23:00+0530</lastmod>
         <changefreq>never</changefreq>
         <priority>0.02</priority>
     </url>
       <url>
-        <loc>https://anudeepburugu.github.io/#/Tech+Blogs/BACC+Crypto</loc>
+        <loc><![CDATA[ https://anudeepburugu.github.io/#/Tech+Blogs/BACC+Crypto]]></loc>
         <lastmod>2023-06-13T06:29:00+0530</lastmod>
         <changefreq>never</changefreq>
         <priority>0.02</priority>
     </url>
       <url>
-        <loc>https://anudeepburugu.github.io/#/Science+Blogs/Lab+Grown+Meat</loc>
+        <loc><![CDATA[ https://anudeepburugu.github.io/#/Science+Blogs/Lab+Grown+Meat]]></loc>
         <lastmod>2023-07-02T11:23:00+0530</lastmod>
         <changefreq>never</changefreq>
         <priority>0.02</priority>
     </url>
-
+      <url>
+        <loc><![CDATA[ https://anudeepburugu.github.io/#/Science+Blogs/Hostile+Takeover]]></loc>
+        <lastmod>2023-07-02T11:23:00+0530</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.02</priority>
+    </url>
 </urlset>
