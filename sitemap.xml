@@ -14,6 +14,12 @@
         <changefreq>never</changefreq>
         <priority>0.02</priority>
     </url>
+    <url>
+      <loc><![CDATA[ https://anudeepburugu.github.io/#/Stories/Hello+Simulation!:+The+Game]]></loc>
+      <lastmod>2024-03-29T16:12:00+0530</lastmod>
+      <changefreq>never</changefreq>
+      <priority>0.02</priority>
+  </url>
       <url>
         <loc><![CDATA[ https://anudeepburugu.github.io/#/Tech+Blogs/BACC+Crypto]]></loc>
         <lastmod>2023-06-13T06:29:00+0530</lastmod>
